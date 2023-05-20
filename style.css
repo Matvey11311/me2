@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+.pom{
+
+}
+a:visited{
+    color: black;
+}
+a:link{
+    color: firebrick;
+}
+header{
+    background-color:turquoise;
+    width: 700px;
+    height: 40px;
+    padding-top:20px;
+}
+a{
+    background-color: orange;
+    width: 10px;
+    height: 10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+h2{
+    color: hotpink;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+  
